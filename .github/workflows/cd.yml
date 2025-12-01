@@ -1,4 +1,7 @@
 # .github/workflows/cd.yml
+permissions:
+  contents: write
+
 name: CD - GitHub Pages
 
 on:
